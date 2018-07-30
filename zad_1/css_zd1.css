@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    overflow-x: hidden;
+}
+
+.wrapper {
+    width: 1920px;
+    height: 1280px;
+    background-image: url("tlo.jpg") ;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center; 
+ 
+  }
+
+
+.middle-box{
+    width: 1000px;
+    height: 550px;
+    background-color:rgba(34, 34, 34, 0.7);
+    display: flex;
+    margin-top: 280px;
+}
+
+.photo{
+    width: 300px;
+    height: 300px;
+    margin-left: 64px; 
+    border-radius: 100%; 
+}
+
+.text{
+   margin-left: 38px;
+   margin-top: 70px;
+   font-size: 28px;
+
+}
+
+h1{
+
+font-family: merriweather;
+font-style: bold;
+font-size: 64px;
+line-height: 80px;
+align: left;
+margin-top: 70px;
+}
+
+p {
+    font-family: open sans;
+    font-style: regular;
+    font-size: 28px;
+    line-height: 38px;
+    align: left;
+    margin-right: 64px;
+  }
+
+.nav{
+    display: flex;    
+    
+  }
+
+ #main {
+    font-weight: bold;
+    font-size: 64px;
+    
+ }
+
+ .fab {
+    width: 60px;
+    height: 60px;
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+    /*transition:2s;*/
+ }
+
+.fab:hover {
+    color:rgb(58, 89, 192);
+    cursor:pointer;
+   /* transition:2s;*/
+}
+
+ .srodek {
+     margin-left:33px;
+     margin-right: 33px;
+ }
+
+a {
+    text-decoration: none;
+}
