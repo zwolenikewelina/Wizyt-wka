@@ -21,7 +21,8 @@
                                 
                                 <div class="text">
                                          <div id="main">Ewelina Zwolenik</div>
-                                         <p>Pochodzę z Kotliny Kłodzkiej, bardzo lubię spacerować po górach. W wolnym czasie biegam i 
+                                        
+                                        <p>Pochodzę z Kotliny Kłodzkiej, bardzo lubię spacerować po górach. W wolnym czasie biegam i 
                                             chodzę na basen. Moim ulubionym rodzajem książek są kryminały. Jestem studentką Politechniki Wrocławskiej.  
                                          </p>
                                 
